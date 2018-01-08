@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/bcicen/ctop/logging"
+	"github.com/jesseward/ctop/logging"
 )
 
 var (

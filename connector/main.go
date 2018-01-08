@@ -3,8 +3,8 @@ package connector
 import (
 	"fmt"
 
-	"github.com/bcicen/ctop/container"
-	"github.com/bcicen/ctop/logging"
+	"github.com/jesseward/ctop/container"
+	"github.com/jesseward/ctop/logging"
 )
 
 var log = logging.Init()

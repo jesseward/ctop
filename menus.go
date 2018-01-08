@@ -1,10 +1,10 @@
 package main
 
 import (
-	"github.com/bcicen/ctop/config"
-	"github.com/bcicen/ctop/container"
-	"github.com/bcicen/ctop/widgets"
-	"github.com/bcicen/ctop/widgets/menu"
+	"github.com/jesseward/ctop/config"
+	"github.com/jesseward/ctop/container"
+	"github.com/jesseward/ctop/widgets"
+	"github.com/jesseward/ctop/widgets/menu"
 	ui "github.com/gizak/termui"
 	"time"
 	"fmt"

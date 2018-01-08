@@ -3,7 +3,7 @@ package single
 import (
 	"fmt"
 
-	"github.com/bcicen/ctop/cwidgets"
+	"github.com/jesseward/ctop/cwidgets"
 	ui "github.com/gizak/termui"
 )
 
@@ -70,7 +70,7 @@ func newMemChart() *ui.MBarChart {
 	mbar.BarColor[1] = ui.ColorBlack
 	mbar.NumColor[1] = ui.ColorBlack
 
-	mbar.NumFmt = cwidgets.ByteFormatInt
+	//mbar.NumFmt = cwidgets.ByteFormatInt
 	//mbar.ShowScale = true
 	return mbar
 }

@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/bcicen/ctop/cwidgets"
+	"github.com/jesseward/ctop/cwidgets"
 	ui "github.com/gizak/termui"
 )
 

@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/bcicen/ctop/config"
-	"github.com/bcicen/ctop/container"
-	"github.com/bcicen/ctop/cwidgets/single"
+	"github.com/jesseward/ctop/config"
+	"github.com/jesseward/ctop/container"
+	"github.com/jesseward/ctop/cwidgets/single"
 	ui "github.com/gizak/termui"
 )
 

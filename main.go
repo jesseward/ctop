@@ -6,12 +6,12 @@ import (
 	"os"
 	"runtime"
 
-	"github.com/bcicen/ctop/config"
-	"github.com/bcicen/ctop/connector"
-	"github.com/bcicen/ctop/container"
-	"github.com/bcicen/ctop/cwidgets/compact"
-	"github.com/bcicen/ctop/logging"
-	"github.com/bcicen/ctop/widgets"
+	"github.com/jesseward/ctop/config"
+	"github.com/jesseward/ctop/connector"
+	"github.com/jesseward/ctop/container"
+	"github.com/jesseward/ctop/cwidgets/compact"
+	"github.com/jesseward/ctop/logging"
+	"github.com/jesseward/ctop/widgets"
 	ui "github.com/gizak/termui"
 	tm "github.com/nsf/termbox-go"
 )
